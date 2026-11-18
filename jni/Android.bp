@@ -29,7 +29,7 @@ cc_library_shared {
     // ANDROIDMK TRANSLATION ERROR: unsupported conditional
     // ifeq ($(TARGET_QCOM_NO_FM_FIRMWARE),true)
 
-    cflags: ["-DQCOM_NO_FM_FIRMWARE"],
+    //cflags: ["-DQCOM_NO_FM_FIRMWARE"],
     // ANDROIDMK TRANSLATION ERROR: endif from unsupported conditional
     // endif
 
